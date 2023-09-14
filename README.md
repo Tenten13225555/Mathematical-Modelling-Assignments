@@ -8,12 +8,11 @@ Mathematical modeling is a powerful tool used across various fields, from engine
 In this README, you will find information about the assignments and resources related to your mathematical modeling coursework, organized by assignment number.
 
 ## Table of Contents
-
-1. Assignment 1: Basic Principles and the Process of Mathematical Modeling
-2. Assignment 2: Empirical Models
-3. Assignment 3: Deterministic Systems – Simulation and Numerical Methods
-5. Assignment 4: Probabilistic Systems – Simulation Modeling
-6. Assignment 5: Optimization
+Assignment 1: Basic Principles and the Process of Mathematical Modeling
+Assignment 2: Empirical Models
+Assignment 3: Deterministic Systems – Simulation and Numerical Methods
+Assignment 4: Probabilistic Systems – Simulation Modeling
+Assignment 5: Optimization
 
 ## Assignment 1: Basic Principles and the Process of Mathematical Modeling
 
